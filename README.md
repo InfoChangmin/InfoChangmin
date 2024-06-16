@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Changmin Hong. I live in Korea and I'm a high school teacher.
+- 👀 I am interested in informatics education, and I am especially researching ways to communicate and teach classes with students in an easy and fun way.
+- 🌱 I’m currently learning Edge AI
+- 💞️ I’m looking to collaborate on Educational companies, public institutions, universities 
+- 📫 To contact me, please email h.ug.t001@on.use.go.kr.
